@@ -1,6 +1,3 @@
-(https://github.com/user-attachments/assets/8d3adca1-02e9-4a01-9e94-40a4ebb403a1)
-
-
 A small clientside library for left hand animations, with slight support for legs animation as a bonus. For first person view only.
 This only includes the base code and some models!
 This only supports c_hand weapons!
